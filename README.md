@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá, eu sou Rodrigo Cavalcante 🙅‍♂️ 
+### Estou em processo de me tornar Desenvolvedor Full-Stack 👨🏻‍💻
 
-<!--
-**RodrigoSantos9916/RodrigoSantos9916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/rodrigocavalcante)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/rodrigo_santos_c)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-cavalcante-02589a202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-Here are some ideas to get you started:
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSantos9916&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que uso:
+
+<div><br>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/
+    <img align="center" alt="Python" src=""/>
+</div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos9916&layout=compact)<br><br>
+Apaixonado pela área de tecnologia, em especial desenvolvimento Front-End e Back-End.<br>
+Sou um novo Curioso na área. ❤️👨🏻‍💻
