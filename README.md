@@ -1,5 +1,6 @@
 ### Olá, eu sou Rodrigo Cavalcante 🙅‍♂️ 
 ### Estou em processo de me tornar Desenvolvedor Full-Stack 👨🏻‍💻
+### Mas tenho como objetivo me tornar um Desenvolvedor de Software de IA 🧠🌐
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/rodrigocavalcante)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/rodrigo_santos_c)
@@ -7,7 +8,7 @@
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSantos9916&show_icons=true&theme=dark)
 
-### Tecnologias que uso:
+### Tecnologias que atualmente uso:
 
 <div><br>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,5 +18,5 @@
 </div><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos9916&layout=compact)<br><br>
-Apaixonado pela área de tecnologia, em especial desenvolvimento Front-End e Back-End.<br>
+Apaixonado pela área de tecnologia, em especial pretendo me tornar um futuro desenvolvedor do Software e IA <br>
 Sou um novo Curioso na área. ❤️👨🏻‍💻
